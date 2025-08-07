@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Thiago Welcome to RPAlogy4nation! What is the first building block of our lives as entrepreneurs.</h1>
+    return <h1>I don't know why my page doesn't work in azure.</h1>
 }
 
 export default Home;
